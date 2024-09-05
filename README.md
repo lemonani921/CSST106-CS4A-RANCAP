@@ -2,7 +2,5 @@
 
 ## Video Presentation
 
-<video width="640" height="360" controls>
-  <source src="https://www.youtube.com/watch?v=lRe4q8_qkYo" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<iframe width="560" height="315" src="https://youtu.be/lRe4q8_qkYo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
