@@ -16,6 +16,7 @@ The second image demonstrates a brain tumor segmentation task, where the model i
 
 ### Code Reference
 The code used for brain tumor segmentation can be found in the following Jupyter Notebook:(https://github.com/lemonani921/CSST106-CS4D-RANCAP/blob/main/Brain%20Tumor%20Segmentation.ipynb)
+
 [Brain Tumor Segmentation Code](https://www.kaggle.com/code/mohammed165/99-classification-with-grad-cam-segmentation)
 
 This notebook contains the implementation and methodology used for the segmentation model, including the preprocessing of the medical images, the model architecture, and the evaluation process.
