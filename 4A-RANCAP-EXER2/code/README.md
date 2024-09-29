@@ -18,3 +18,4 @@
 
 1. SIFT Feature Extraction
 SIFT (Scale-Invariant Feature Transform) is used for detecting local features in images.
+![image](https://github.com/user-attachments/assets/f1c61884-7238-49e8-b25e-f208d6670d07)
