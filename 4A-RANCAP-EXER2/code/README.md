@@ -15,3 +15,6 @@
         -D BUILD_EXAMPLES=OFF ..
 !make -j8
 !make install
+
+1. SIFT Feature Extraction
+SIFT (Scale-Invariant Feature Transform) is used for detecting local features in images.
